@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+.empty-div{
+  height: 2px;
+  width: 100px;
+  background-color: blue;
+}
+.card-TiTle{
+letter-spacing: 2px !important; 
+line-height: 10px !important;
+color: rgb(6, 1, 24) !important;
 }
